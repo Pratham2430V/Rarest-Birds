@@ -18,3 +18,13 @@ p {
 h3 {
   margin: auto;
 }
+.p1 {
+  border: 2px solid white;
+  border-radius: 8px;
+  margin: 10px;
+}
+.p2 {
+  border: 2px solid white;
+  border-radius: 8px;
+  margin: 10px;
+}

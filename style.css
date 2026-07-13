@@ -4,8 +4,7 @@ body {
 }
 img {
   width: auto;
-  float: left;
-  margin: 15px;
+  margin: auto;
   max-width: 800px;
   width: 100%;
 }

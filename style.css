@@ -4,9 +4,12 @@ body {
 }
 img {
   width: auto;
-
   float: left;
+  margin: 15px;
 }
-p {
-  float: left;
+.text {
+  margin: 0;
+}
+.clear {
+  clear: both;
 }

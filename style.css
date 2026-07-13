@@ -3,6 +3,7 @@ body {
   color: whitesmoke;
 }
 img {
+  display: block;
   width: auto;
   margin: auto;
   max-width: 800px;

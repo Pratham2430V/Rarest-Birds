@@ -10,5 +10,10 @@ img {
   width: 100%;
 }
 p {
+  margin: auto;
   padding: 10px;
+}
+
+h3 {
+  margin: auto;
 }

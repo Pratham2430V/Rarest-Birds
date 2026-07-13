@@ -28,3 +28,10 @@ h3 {
   border-radius: 8px;
   margin: 10px;
 }
+a {
+  background-color: aqua;
+  display: inline-block;
+  padding: 10px;
+  border: 2px solid white;
+  border-radius: 8px;
+}

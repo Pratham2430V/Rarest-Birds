@@ -6,9 +6,12 @@ img {
   width: auto;
   float: left;
   margin: 15px;
+  max-width: 800px;
+  width: 100%;
 }
 .text {
   margin-top: 31px;
+  padding: 10px;
 }
 .clear {
   clear: both;

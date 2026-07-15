@@ -30,7 +30,19 @@ p {
 }
 
 h3 {
+  background-color: #ffcc00;
   margin: auto;
+  padding: 10px;
+  border: 2px solid black;
+  border-radius: 8px;
+  display: inline-block;
+}
+h4 {
+  background-color: #f25912;
+  border: 2px solid black;
+  border-radius: 8px;
+  padding: 10px;
+  display: inline-block;
 }
 .p1 {
   background-color: #293848;

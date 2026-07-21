@@ -10,7 +10,7 @@ h1 {
   border: 2px solid white;
   padding: 10px;
 }
-h2 { 
+h2 {
   font-family: "Fraunces", serif;
   background-color: #ff3483;
   padding: 10px;
@@ -27,11 +27,13 @@ img {
   border: 2px solid white;
 }
 p {
+  font-family: "Domine", serif;
   margin: auto;
   padding: 10px;
 }
 
-h3 {font-family: "Cinzel", serif;
+h3 {
+  font-family: "Cinzel", serif;
   background-color: #ffcc00;
   margin: auto;
   padding: 8px;
@@ -39,7 +41,8 @@ h3 {font-family: "Cinzel", serif;
   border-radius: 8px;
   display: inline-block;
 }
-h4 {font-family: "Cinzel", serif;
+h4 {
+  font-family: "Cinzel", serif;
   background-color: #f25912;
   border: 2px solid black;
   border-radius: 8px;
@@ -47,6 +50,7 @@ h4 {font-family: "Cinzel", serif;
   display: inline-block;
 }
 .p1 {
+  font-family: "Bree Serif", serif;
   background-color: #293848;
   border: 2px solid white;
   border-radius: 8px;
